@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.Odd-Numbered {
+    background-color: #f092ec;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#Number-2 {
+    color: #2f38e6;
+    font-size: 36px;
+}
+
+.Odd-Numbered.Number-3 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#Number-4 {
+    background-color: #9df89c;
+    font-size: 24px;
+    font-weight: bold;
+}

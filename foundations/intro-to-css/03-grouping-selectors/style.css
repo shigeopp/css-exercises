@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+body {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+#first-El {
+    background-color: #1a211e;
+    color: hsl(0, 5%, 95%);
+}
+
+#second-El {
+    background-color: #f3d648;
+}
+
